@@ -1,0 +1,16 @@
+
+Preguntas
+
+- "Cual es el objetivo del sistema?"
+
+- "Que tipos de usuarios o que tipos de personas quiere en su sistema?" 
+
+- "Que informacion les gustaria monitorear de los maestros y los alumnos?"
+
+- "Que personas van a usar el sistema?"
+
+- "A que informacion quiere tener acceso ellos o cuales todas las personas?"
+
+- "Quiere un sistema de manejo de usuarios?"
+
+
