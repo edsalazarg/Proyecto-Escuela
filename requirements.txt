@@ -2,15 +2,50 @@
 Preguntas
 
 - "Cual es el objetivo del sistema?"
+Sistema donde pueda agregar alumnos, modificar alumnos, eliminar alumnos y que tenga control sobre mis maestros, la idea
+es que se puedan hacer para alumnos y para maestros.
+
+
+Quisiera tener una forma de manejar distintos niveles de usuarios, y se podria agregar, alumnos, maestros
+y administrativos. 
+
+Tambien quiere tener el control de materias, que se lleve un control de los promedios de los periodos y se muestre
+uno total. Tambien quiere poder hacer la relacion entre alumnos y materias, que alumnos estan en que materia, 
+los profesores que dan tal materia, etc.
 
 - "Que tipos de usuarios o que tipos de personas quiere en su sistema?" 
+Alumnos, maestros y administrativos.
 
 - "Que informacion les gustaria monitorear de los maestros y los alumnos?"
+DE TODOS: Nombre, edad, domicilio y telefono. Usuario y contrase;a. Va a haber un super usuario que sea el unico
+que pueda crear usuarios y contrase;as. 
+Administrativos: Ya
+Maestros: Que materias tienen asignadas, y su sueldo. 
+Alumnos: Asignaturas del periodo, calificaciones. 
+
+Tambien quiere que el sistema tome lista. 
+
 
 - "Que personas van a usar el sistema?"
+Alumnos, maestros y administrativos. 
 
 - "A que informacion quiere tener acceso ellos o cuales todas las personas?"
+Alumnos: Solamente su horario y sus calificaciones (historial de semestres pasados).
+Maestros: Podran ver sus materias impartidas, podran poner calificaciones y van a poder tomar lista, Tambien
+            van a poder ver las calificaciones de los alumnos (su historial)
+Admnistrativos: Informacion de los alumnos, sus calificaciones. Tambien va a ser el unico que puede dar de alta el 
+sueldo de los maestros. (TODO)
+
+Super administrador: Va a poder hacer todo lo que hace el administrativo pero aparte va a poder dar de alta usuarios,
+                    generar una contrase;a generica y cambiarla tambien. 
+
+CUALQUIERA de los usarios puede cambiar su contrase;a.
 
 - "Quiere un sistema de manejo de usuarios?"
+Si, que haya una forma de que haya varios usuarios pero que el super administrador sea el unico que los pueda 
+dar de alta o cambiar su contrase;a.
+
+
+
 
 
