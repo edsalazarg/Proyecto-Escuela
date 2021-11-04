@@ -1,0 +1,58 @@
+
+- Clases
+    Clase Padre, Persona:
+        -   Nombre
+        -   Telefono
+        -   Edad
+        -   Domicilio
+        -   Usuario
+        -   Contraseña
+
+    Alumnos:
+        - Asignaturas
+        - Calificaciones
+
+    Maestros:
+        - Materias asignadas
+        - Sueldo
+
+    Administrativos:
+        - Nada
+
+    Super Administrador:
+        - Nada
+
+
+
+- Funcionalidades:
+    Alumnos:
+        -   Acceder horario
+        -   Acceder calificaciones
+        -   Historial ciclos pasados
+
+    Maestros:
+        -   Ver materias que imparten
+        -   Poner calificaciones
+        -   Nombrar lista
+        -   Ver historial de calificaciones
+
+    Administrativos:
+        -   Pueden ver toda la informacion
+        -   Pueden modificar todo, menos contraseña y calificaciones
+        -   Pueden asignar materias a maestros
+        -   Pueden asignar las materias a alumnos
+
+    Super Administrador:
+        -   Todo lo que hace el administrativo
+        -   Puede dar de alta usuarios
+        -   Puede generar contraseña y cambiar contraseña
+
+    TODOS:
+        - Van a poder cambiar su contraseña
+
+
+Extras:
+    - Poder ver historial academico
+    - Separar ciclos
+
+
